@@ -26,7 +26,6 @@ There are three main categories of design patterns:
 3. **Behavioral Patterns** 🏗️: These dictate object interactions and communications.
    - Chain of Responsibility: Passes a request along a chain of handlers.
    - Command: Encapsulates requests as objects for flexible execution.
-   - Interpreter: Evaluates language grammar or expressions.
    - Iterator: Provides sequential access to elements in an aggregate object.
    - Mediator: Encapsulates object interaction logic.
    - Memento: Captures and externalizes an object's internal state.
