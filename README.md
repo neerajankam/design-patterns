@@ -34,5 +34,3 @@ There are three main categories of design patterns:
    - Strategy: Defines interchangeable algorithms for flexible usage.
    - Template Method: Establishes a skeleton algorithm with customizable steps.
    - Visitor: Performs operations on elements of an object structure.
-
-Harness the power of design patterns to level up your software craftsmanship! 💡💻
