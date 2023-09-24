@@ -1,7 +1,5 @@
 # design-patterns(WIP)
-🧩 Demystifying Design Patterns 🧩
-
-Ever wondered how top-notch software engineers consistently create elegant, efficient, and maintainable code? Enter design patterns – the secret sauce that simplifies complex software design challenges.
+🧩 Design Patterns 🧩
 
 Design patterns are like tried-and-true blueprints, offering reusable solutions to common problems. They empower us to craft code that's not just functional, but also flexible and scalable.
 
